@@ -35,9 +35,9 @@ Passionate about automating infrastructure, building efficient CI/CD pipelines, 
 
 | Project | Description | Repo |
 |---------|-------------|------|
-| **CI/CD Automation with Jenkins** | Automated pipeline: Pull from GitHub → Build → Deploy Dockerized app | [Repo Link](https://github.com/Tanisha-1810/jenkins_one) |
-| **Dockerized Deployment** | Built and deployed containerized service with Docker Compose | [Repo Link](https://github.com/Tanisha-1810/Docker) |
-| **AWS Resource Tracker** | Scheduled Bash script to log AWS resource usage for cost optimization | [Repo Link](https://github.com/Tanisha-1810/AWS_Resource_Tracker) |
+| **CI/CD Automation with Jenkins** | Designed and implemented a multi-stage Jenkins pipeline integrating GitHub for automated build, test, and deployment | [Repo Link](https://github.com/Tanisha-1810/jenkins_one) |
+| **Dockerized Deployment** | Containerized application with Docker and pushed to Docker Hub. | [Repo Link](https://github.com/Tanisha-1810/Docker) |
+| **AWS Resource Tracker** | Automated AWS service monitoring with Bash, AWS CLI, and Cron | [Repo Link](https://github.com/Tanisha-1810/AWS_Resource_Tracker) |
 
 ---
 
