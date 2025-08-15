@@ -43,7 +43,7 @@ Passionate about automating infrastructure, building efficient CI/CD pipelines, 
 
 ## 📊 GitHub Stats
 
-[![Tanisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanisha-1810&show_icons=true&theme=radical&hide_border=true)]   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha-1810&layout=compact&theme=radical&hide_border=true)](https://github.com/Tanisha-1810)
+![Tanisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanisha-1810&show_icons=true&theme=radical&hide_border=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha-1810&layout=compact&theme=radical&hide_border=true)](https://github.com/Tanisha-1810)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tanisha-1810&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
@@ -53,7 +53,7 @@ Passionate about automating infrastructure, building efficient CI/CD pipelines, 
 
 ## 📬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-pareek-292aa322a/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishapareek18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-pareek-292aa322a/)       [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishapareek18@gmail.com)
 
 ---
 
