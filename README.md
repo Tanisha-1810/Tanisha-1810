@@ -43,9 +43,13 @@ Passionate about automating infrastructure, building efficient CI/CD pipelines, 
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 
-![Tanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanisha-1810&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha-1810&layout=compact&theme=radical)
+[![Tanisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanisha-1810&show_icons=true&theme=radical&hide_border=true)](https://github.com/Tanisha-1810)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tanisha-1810&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha-1810&layout=compact&theme=radical&hide_border=true)](https://github.com/Tanisha-1810)
+
 
 ---
 
