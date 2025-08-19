@@ -42,6 +42,8 @@ Passionate about automating infrastructure, building efficient CI/CD pipelines, 
 
 ## 📊 GitHub Stats
 
+![Profile views](https://komarev.com/ghpvc/?username=Tanisha-1810&label=Profile%20Views&color=blue&style=for-the-badge)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha-1810&layout=compact&theme=radical)
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tanisha-1810&theme=radical)
