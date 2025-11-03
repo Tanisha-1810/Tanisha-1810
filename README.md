@@ -22,6 +22,7 @@ Passionate about automating infrastructure, building efficient CI/CD pipelines, 
 ## 🚀 Skills & Tools
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)](https://azure.microsoft.com/products/devops/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -30,17 +31,6 @@ Passionate about automating infrastructure, building efficient CI/CD pipelines, 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 ---
 
-
-## 📊 GitHub Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha-1810&layout=compact&theme=radical)
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tanisha-1810&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanisha-1810&show_icons=true&theme=radical)
-
-
----
 
 ## 📬 Get in Touch
 
