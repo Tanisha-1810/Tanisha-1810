@@ -23,21 +23,13 @@ Passionate about automating infrastructure, building efficient CI/CD pipelines, 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 ---
 
-## 📌 Projects & Highlights
-
-| Project | Description | Repo |
-|---------|-------------|------|
-| **CI/CD Automation with Jenkins** | Designed and implemented a multi-stage Jenkins pipeline integrating GitHub for automated build, test, and deployment | [Repo Link](https://github.com/Tanisha-1810/jenkins_one) |
-| **Dockerized Deployment** | Containerized application with Docker and pushed to Docker Hub. | [Repo Link](https://github.com/Tanisha-1810/Docker) |
-| **AWS Resource Tracker** | Automated AWS service monitoring with Bash, AWS CLI, and Cron | [Repo Link](https://github.com/Tanisha-1810/AWS_Resource_Tracker) |
-
----
 
 ## 📊 GitHub Stats
 
